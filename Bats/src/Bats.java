@@ -1,7 +1,7 @@
 /*
  *
  * Bats.java
- * test 3
+ * test 4
  *
  */
 import org.apache.log4j.Logger;
